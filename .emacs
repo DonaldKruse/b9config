@@ -8,8 +8,6 @@
 (setq org-todo-keywords '((sequence "TODO(t)" "IN PROGRESS(p)" "|" "DONE(d)" "CANCELLED(c)")))
 
 
-
-
 ;;;; PACKAGE SET UP ;;;;
 (require 'package)
 
